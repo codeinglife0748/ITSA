@@ -1,6 +1,12 @@
-#include<iostream>
-using namespace std;
-int main() {
+#include <iostream>  
+#include<bitset>  
 
-	cout << "Hello There";
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    cout << bitset<8>(n) << endl;
+    return 0;
 }
