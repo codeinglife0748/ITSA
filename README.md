@@ -18,7 +18,7 @@
 輸出範例:  
 340
 
-程式碼
+程式碼:
 ```
 #include<iostream>
 using namespace std;
