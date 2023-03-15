@@ -19,7 +19,7 @@
   144.0  
   152.0  
   
-## 程式碼
+## 程式碼:
 ```
 #include <iostream>  
 #include<iomanip>  
